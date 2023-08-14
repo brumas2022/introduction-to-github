@@ -1,0 +1,7 @@
+import streamlit as st
+import mysql.connector
+
+st.set_page_config(page_title="Fiscalização de Contratos")
+
+st.image("Imagens/img.png")
+
